@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/b117ebc9-3bab-4e81-bc15-01de6b1b8c93)
+![wave](https://github.com/user-attachments/assets/d9102ac6-f904-4f46-b675-71a611881604)
+
 # -Noise-Attenuation-using-Selective-Low-Pass-FIR-Filter-with-Audio-Visual-Verification
 
 **Overview**
