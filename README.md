@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/b117ebc9-3bab-4e81-bc15-01de6b1b8c93)# -Noise-Attenuation-using-Selective-Low-Pass-FIR-Filter-with-Audio-Visual-Verification
+![image](https://github.com/user-attachments/assets/b117ebc9-3bab-4e81-bc15-01de6b1b8c93)
+# -Noise-Attenuation-using-Selective-Low-Pass-FIR-Filter-with-Audio-Visual-Verification
+
 **Overview**
 
 This project demonstrates noise attenuation using a low-pass FIR filter designed with the Hamming window method on an Arduino. It includes audio and visual feedback, making it an excellent tool for exploring signal processing and FIR filter design on a hardware platform.
