@@ -33,12 +33,18 @@ The code uses:
 The FIR filter design uses a Hamming window, which applies a smooth transition to the filter coefficients, minimizing ripples in the frequency response. With a cutoff frequency of 12 Hz, the filter allows only lower frequencies to pass, reducing noise effectively.
 
 **Getting Started**
+
 **Setup Arduino:** Connect LEDs and buzzers according to the circuit diagram.
+
 **Upload Code:** Load the provided Arduino sketch to start.
+
 **Run the Project:** Observe LED indicators and listen to the buzzer tones for verification of noise attenuation.
+
 **Usage**
+
 Use the Serial Plotter to visualize the input and filtered signals.
 LEDs and buzzers offer real-time visual and audio feedback of the filtering process.
+
 **Future Enhancements**
 Expand to test other filter types and configurations.
 Integrate with additional sensors or wireless modules for remote monitoring.
